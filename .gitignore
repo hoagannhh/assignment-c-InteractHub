@@ -1,0 +1,18 @@
+# Ignore PDF files
+*.pdf
+
+# Visual Studio / C#
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# MacOS
+.DS_Store
