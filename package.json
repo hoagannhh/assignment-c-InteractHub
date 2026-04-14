@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://github.com/hoagannhh/assignment-c-InteractHub.git"
+}
+
